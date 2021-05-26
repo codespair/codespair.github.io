@@ -433,6 +433,12 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	#slides .slides-container .image5{
 		background-image:url(../images/5.jpg);
 	}
+	#slides .slides-container .image6{
+		background-image:url(../images/6.jpg);
+	}
+	#slides .slides-container .image7{
+		background-image:url(../images/7.jpg);
+	}
 
 	.v2 .home-arrow{
 		margin:0 auto;
