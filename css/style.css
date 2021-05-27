@@ -1101,7 +1101,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 	
 	#fun-acts{
-		background:#333 url(../images/bgd/background5.jpg) repeat;
+		background: linear-gradient(rgba(0, 0, 0, 0.627),rgba(0, 0, 0, 0.6)), url(../images/bgd/background5.jpg) repeat;
 	}
 
 
