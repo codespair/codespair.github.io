@@ -990,6 +990,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		margin:15px auto;
 		cursor: default;
 		overflow: hidden;
+		height: 500px;
 	}
 
 	.team-members .member .member-inner{
